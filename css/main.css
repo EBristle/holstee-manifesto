@@ -1,0 +1,70 @@
+p {
+	font-family: 'Quattrocento', serif;
+}
+
+.stylish {
+	font-family: 'Stylish', sans-serif;
+}
+
+#parent-div {
+    width: 390px;
+	margin: 20px auto;
+    padding: 10px;
+    background: #e8e8e8;
+	overflow: auto;
+}
+
+.double-quote {
+  	width: 175px;
+	height: 350px;
+	padding: 10px;
+	text-align: center;
+	background: #2eb873;
+  	font-size: 22px;
+	float: left;
+}
+
+.two-aside {
+	width: 195px;
+	float: left;
+}
+	
+.top-right {
+	width: 175px;
+	height: 165px;
+	padding: 10px;
+	text-align: center;
+	background: #61a4d1;
+  	font-size: 18px;
+	clear: both;
+}
+
+.middle {
+	width: 159px;
+	height: 149px;
+	padding: 18px;
+	text-align: center;
+	background: #61a4d1;
+	font-size: 18px;
+	float: left;
+}
+
+.lower-left {
+	width: 135px;
+	height: 125px;
+	padding: 30px;
+	text-align: center;
+  	background: #315981;
+	color: white;
+	font-size: 18px;
+}
+
+.indigo {
+	background: #315981;
+	color: white;
+  }
+
+.plum {
+	background: #d8eaf3;
+	color: black;
+}
