@@ -19,7 +19,7 @@ p {
 	height: 350px;
 	padding: 10px;
 	text-align: center;
-	background: #2eb873;
+	background: #F2716D;
   	font-size: 22px;
 	float: left;
 }
@@ -34,7 +34,7 @@ p {
 	height: 165px;
 	padding: 10px;
 	text-align: center;
-	background: #61a4d1;
+	background: #6db9f2;
   	font-size: 18px;
 	clear: both;
 }
@@ -44,7 +44,7 @@ p {
 	height: 149px;
 	padding: 18px;
 	text-align: center;
-	background: #61a4d1;
+	background: #6db9f2;
 	font-size: 18px;
 	float: left;
 }
@@ -54,17 +54,17 @@ p {
 	height: 125px;
 	padding: 30px;
 	text-align: center;
-  	background: #315981;
+  	background: #0d3859;
 	color: white;
 	font-size: 18px;
 }
 
 .indigo {
-	background: #315981;
+	background: #0D3859;
 	color: white;
   }
 
 .plum {
-	background: #d8eaf3;
+	background: #69bfb7;
 	color: black;
 }
